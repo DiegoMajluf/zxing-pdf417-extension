@@ -1,0 +1,19 @@
+{
+  "name": "zxing-pdf417-extension",
+  "version": "1.0.0",
+  "description": "zxing-pdf417 para ser usado en extensiones de navegadores",
+  "main": "zxing-pdf417.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoMajluf/zxing-pdf417-extension.git"
+  },
+  "author": "Diego Majluf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoMajluf/zxing-pdf417-extension/issues"
+  },
+  "homepage": "https://github.com/DiegoMajluf/zxing-pdf417-extension#readme"
+}
